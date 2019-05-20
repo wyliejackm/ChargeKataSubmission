@@ -2,7 +2,7 @@ package com.jwylie.chargekata;
 
 public class SlackUser implements User{
 
-private String id, username;
+	private String id, username;
 	
 	public SlackUser(String id, String username) {
 		this.id = id;
